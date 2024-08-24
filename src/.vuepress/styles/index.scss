@@ -1,1 +1,62 @@
+/* responsive breakpoints */
+
+// wide screen
+$pc: 1440px !default;
+
+// desktop
+$laptop: 1280px !default;
+
+// narrow desktop / iPad
+$pad: 959px !default;
+
+// wide mobile
+$tablet: 719px !default;
+
+// narrow mobile
+$mobile: 419px !default;
+
+@import "config.scss";
+
 // place your custom styles here
+.vp-blogger-avatar {
+    border-radius: 50%;
+}
+
+.vp-portfolio-container {
+    justify-content: center;
+    text-align: center;
+}
+
+.vp-portfolio-info .vp-social-medias {
+    justify-content: center;
+}
+
+@media (max-width: $pad) {
+    .vp-portfolio-container {
+        justify-content: end;
+        min-height: 50vh;
+    }
+}
+
+html[data-theme=light] {
+    --home-bg: rgba(0, 0, 0, 0.2)
+}
+html[data-theme=dark] {
+    --home-bg: rgba(255, 255, 255, 0.2)
+}
+
+.vp-portfolio:not(.bg)::after {
+    background-color: var(--home-bg);
+}
+
+.vp-article-excerpt h2 {
+    font-size: 1.1rem;
+}
+
+.vp-article-excerpt h3 {
+    font-size: 1.1rem;
+}
+
+.vp-article-excerpt h4 {
+    font-size: 1.08rem;
+}

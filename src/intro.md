@@ -1,8 +1,15 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+article: false
+sidebar: false
+prev: false
+next: false
+comment: false
+breadcrumb: false
+pageInfo: false
+contributors: false
 ---
 
-# Intro Page
+# Resume
 
 Place your introduction and profile here.
