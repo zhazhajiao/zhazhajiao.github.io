@@ -30,7 +30,7 @@ export default hopeTheme({
   displayFooter: true,
 
   blog: {
-    description: "A FrontEnd programmer",
+    description: "A Master's Student of USTC",
     intro: "/intro.html",
     avatar: "/assets/images/portrait.jpg",
     medias: {
