@@ -10,6 +10,6 @@ pageInfo: false
 contributors: false
 ---
 
-# Resume
+# Résumé
 
-Place your introduction and profile here.
+T.B.D.
