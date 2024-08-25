@@ -1,26 +1,8 @@
-/* responsive breakpoints */
-
-// wide screen
-$pc: 1440px !default;
-
-// desktop
-$laptop: 1280px !default;
-
-// narrow desktop / iPad
-$pad: 959px !default;
-
-// wide mobile
-$tablet: 719px !default;
-
-// narrow mobile
-$mobile: 419px !default;
-
-@import "config.scss";
+@use "@sass-palette/hope-config";
 
 // place your custom styles here
-.vp-blogger-avatar {
-    border-radius: 50%;
-}
+
+@import "projectHome.scss";
 
 .vp-portfolio-container {
     justify-content: center;
@@ -31,7 +13,7 @@ $mobile: 419px !default;
     justify-content: center;
 }
 
-@media (max-width: $pad) {
+@media (max-width: hope-config.$pad) {
     .vp-portfolio-container {
         justify-content: end;
         min-height: 50vh;

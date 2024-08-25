@@ -30,7 +30,7 @@ export default hopeTheme({
   displayFooter: true,
 
   blog: {
-    description: "A Master's Student of USTC",
+    description: "A Master's Student at USTC",
     intro: "/intro.html",
     avatar: "/assets/images/portrait.jpg",
     medias: {
@@ -205,4 +205,8 @@ export default hopeTheme({
     //   },
     // },
   },
-});
+},
+{
+  custom: true,
+}
+);
