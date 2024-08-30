@@ -1,6 +1,7 @@
 ---
 home: true
 index: false
+article: false
 title: "Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios"
 icon: route
 details: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios

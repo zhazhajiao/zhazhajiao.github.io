@@ -1,6 +1,7 @@
 ---
 title: Publications
 index: false
+article: false
 pageInfo: false
 icon: graduation-cap
 ---

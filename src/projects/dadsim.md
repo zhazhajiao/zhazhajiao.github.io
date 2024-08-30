@@ -2,6 +2,7 @@
 home: true
 title: DADSim
 icon: route
+article: false
 details: Distributed Autonomous Driving Simulator
 heroText: DADSim
 tagline: A Distributed Autonomous Driving Simulator based on ROS2
