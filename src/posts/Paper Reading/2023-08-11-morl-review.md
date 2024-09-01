@@ -2,6 +2,8 @@
 icon: pen-to-square
 date: 2023-08-11
 tag:
+  - MORL
+category:
   - Paper Reading
 ---
 
