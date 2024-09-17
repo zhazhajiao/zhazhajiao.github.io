@@ -2,6 +2,10 @@ import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
 
+import { getDirname, path } from "vuepress/utils";
+
+const __dirname = getDirname(import.meta.url);
+
 export default defineUserConfig({
   base: "/",
 
@@ -13,4 +17,12 @@ export default defineUserConfig({
 
   // Enable it with pwa
   // shouldPrefetch: false,
+
+  alias: {
+    "@theme-hope/components/HeroInfo": path.resolve(
+      __dirname,
+      "./components/HeroInfo.vue",
+    ),
+    "@theme-hope": "vuepress-theme-hope",
+  },
 });
