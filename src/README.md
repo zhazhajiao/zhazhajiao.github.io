@@ -9,7 +9,6 @@ titles:
   - Maker Culture Enthusiast
   - Amateur Front-End Developer
   - Passionate About Photography and Amateur Astronomy
-  - Classical Music Aficionado
 avatar: /assets/images/portrait.jpg
 avatarStyle: "display: none"
 ---

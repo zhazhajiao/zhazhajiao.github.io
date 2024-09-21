@@ -4,6 +4,8 @@ import theme from "./theme.js";
 
 import { getDirname, path } from "vuepress/utils";
 
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
@@ -25,4 +27,13 @@ export default defineUserConfig({
     ),
     "@theme-hope": "vuepress-theme-hope",
   },
+
+  plugins: [
+    registerComponentsPlugin({
+      components: {
+        FlexSpan: path.resolve(__dirname, "./components/FlexSpan.vue"),
+      }
+    }),
+  ],
+
 });
