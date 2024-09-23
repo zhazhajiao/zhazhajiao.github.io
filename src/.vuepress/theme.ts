@@ -57,6 +57,12 @@ export default hopeTheme({
   // enable it to preview all changes in time
   // hotReload: true,
 
+  encrypt: {
+    config: {
+      "/posts/Story": ["19990628"],
+    },
+  },
+
   plugins: {
     blog: true,
 
@@ -146,7 +152,7 @@ export default hopeTheme({
 
     searchPro: true,
 
-    copyright: true
+    copyright: true,
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
