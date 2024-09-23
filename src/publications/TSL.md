@@ -4,7 +4,6 @@ index: false
 article: false
 publication: true
 title: "Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios"
-icon: route
 details: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios
 heroText: "Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios"
 # tagline: Ruolin Wang*, Yuejiao Xu*, Jianmin Ji

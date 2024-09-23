@@ -1,6 +1,7 @@
 ---
 home: true
 portfolio: true
+article: false
 icon: home
 title: Home
 titles:
