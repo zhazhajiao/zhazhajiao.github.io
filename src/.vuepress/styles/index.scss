@@ -29,10 +29,11 @@ html[data-theme=dark] {
 
 html[data-theme=light] {
     --school-color: #194178;
-    --phone-color: #42B983;
-    --email-color: #FFC310;
-    --github-color: #1F2328;
-    --gitee-color: #C71D23;
+    --phone-color: #42b983;
+    --email-color: #ffc310;
+    --github-color: #1f2328;
+    --gitee-color: #c71d23;
+    --homepage-color: #c71d23;
 }
 
 html[data-theme=dark] {
@@ -41,6 +42,7 @@ html[data-theme=dark] {
     --email-color: #b89e00;
     --github-color: #cfd3d7;
     --gitee-color: #a1121a;
+    --homepage-color: #a1121a;
 }
 
 .vp-portfolio:not(.bg)::after {

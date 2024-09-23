@@ -105,6 +105,11 @@ div::before {
     color: var(--gitee-color);
 }
 
+.homepage::before {
+    content: '\e606';
+    color: var(--homepage-color);
+}
+
 a {
     color: unset;
     text-decoration: unset;

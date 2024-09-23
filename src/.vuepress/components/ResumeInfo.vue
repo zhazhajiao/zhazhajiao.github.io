@@ -5,7 +5,7 @@ import Photo from './Photo.vue'
 
 const frontmatter = usePageFrontmatter();
 
-const { name, birthday, phone, email, github, introduce } = frontmatter.value
+const { name, birthday, phone, email, github, homepage, introduce } = frontmatter.value
 const gender = (() => {
     const { gender } = frontmatter.value
     switch (gender) {
@@ -50,6 +50,7 @@ const school: string = (() => {
             <Line class-name="phone" :href="'tel:' + phone.replace(/-/g, '')" :text="phone"/>
             <Line class-name="email" :href="'mailto:' + email" :text="email"/>
             <Line class-name="github" :href="'https://'+github" :text="github"/>
+            <Line class-name="homepage" :href="homepage" :text="homepage"/>
             <Line class-name="introduce" :text="introduce"/>
         </div>
         <ClientOnly>
