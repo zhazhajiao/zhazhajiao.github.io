@@ -27,16 +27,16 @@ photo: assets/images/portrait.jpg
 
 I am a Master's student at the University of Science and Technology of China, supervised by Associate Professor Jianmin Ji.
 My research interests include scenario-based autonomous vehicle safety assessment and KR-based traffic scenario representation and generation.
-I'm also interested in many robotics and autonomous driving fields, including reinforcement learning, motion planning and trajectory optimization, and even hardware design.
+I'm also interested in many robotics and autonomous driving fields, including reinforcement learning, motion planning, trajectory optimization, and even hardware design.
 
 ## Highlights
 
 - Experienced in scenario-based autonomous driving safety assessment methods
 - Familiar with autonomous driving planning algorithms such as EM Planner and Lattice Planner
 - Acquainted with reinforcement learning algorithms like DQN and PPO
-- Skilled in logic programming based on Answer Set Programming
-- Knowledgeable about control theory, circuit theory, and hardware design of robots
-- Proficient in C/C++/Python/ROS/ROS 2
+- Proficient in logic programming based on Answer Set Programming
+- Knowledgeable about control theory, circuit theory, embedded system development, and hardware design of robots
+- Experienced in C/C++/Python/ROS/ROS 2
 
 ## Education
 
@@ -84,6 +84,7 @@ I'm also interested in many robotics and autonomous driving fields, including re
 - Implement a reinforcement learning-based autonomous driving testing environment as a project participant.
 
 ## Awards and Scholarships
+
 - Champion Team, Robogame 2018 Championship of USTC
 - Third Prize, 5th Information Security Competition of USTC (2018)
 - Bronze Award, Excellent Student Scholarship of USTC (2017, 2018, 2019)
@@ -91,6 +92,7 @@ I'm also interested in many robotics and autonomous driving fields, including re
 - First Prize, Graduate Study Scholarship (2021, 2022, 2023)
 
 ## Teaching Assistant Experience
+
 - Fall 2019: Computer Programming A
 - Fall 2020: Actuator Technology
 - Spring 2021: Principles of Computers and Embedded Systems
@@ -103,4 +105,4 @@ I'm also interested in many robotics and autonomous driving fields, including re
 
 ## Fun Facts
 
-- I love music. I can play the piano, and I've self-taught myself to play the *Dizi* (笛子, a kind of Chinese flute) and *Xun* (埙, an ancient Chinese musical instrument). I can also play a little guitar.
+- I love music. I can play the piano, and I've taught myself to play the *Dizi* (笛子, a kind of Chinese flute) and *Xun* (埙, an ancient Chinese musical instrument). I can also play a little guitar.
