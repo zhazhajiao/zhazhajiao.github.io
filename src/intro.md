@@ -10,7 +10,8 @@ breadcrumb: false
 pageInfo: false
 contributors: false
 name: Ruolin Wang
-birthday: "1999-06-28"
+birthday: 1999-06-28
+showBirthday: false
 school: University of Science and Technology of China
 phone: +86-156-9551-5713
 email: rl_wang@mail.ustc.edu.cn
@@ -18,6 +19,7 @@ github: github.com/Violin9906
 homepage: https://ruolin.wang
 introduce: 
 gender: male
+showGender: false
 photo: assets/images/portrait.jpg
 ---
 

@@ -23,9 +23,9 @@ const classes = (() => {
 <template>
     <template v-if="text">
         <a v-if="href" :href="href" rel="noopener noreferrer" target="_blank">
-            <div class="line" :class="classes">{{ text }}</div>
+            <div class="line" :class="classes" v-html="text"></div>
         </a>
-        <div v-else class="line" :class="classes">{{ text }}</div>
+        <div v-else class="line" :class="classes" v-html="text"></div>
     </template>
 </template>
 

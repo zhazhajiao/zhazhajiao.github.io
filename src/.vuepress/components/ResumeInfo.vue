@@ -5,7 +5,7 @@ import Photo from './Photo.vue'
 
 const frontmatter = usePageFrontmatter();
 
-const { name, birthday, phone, email, github, homepage, introduce } = frontmatter.value
+const { name, birthday, phone, email, github, homepage, introduce, showBirthday, showGender } = frontmatter.value
 const gender = (() => {
     const { gender } = frontmatter.value
     switch (gender) {
@@ -23,6 +23,16 @@ const gender = (() => {
     }
 })()
 
+const age = (() => {
+    const birth = new Date(birthday)
+    const now = new Date()
+    const age = now.getFullYear() - birth.getFullYear()
+    if (now.getMonth() < birth.getMonth() || (now.getMonth() === birth.getMonth() && now.getDate() < birth.getDate())) {
+        return age - 1
+    }
+    return age
+})()
+
 function mergeTexts(texts: (string | number | undefined)[], delimiter = ' / ') {
     let result = ''
     for (const text of texts) {
@@ -35,7 +45,11 @@ function mergeTexts(texts: (string | number | undefined)[], delimiter = ' / ') {
     }
     return result
 }
-const people = mergeTexts([name, gender, birthday])
+const name_bold = '<b>' + name + '</b>'
+const people: string = (() => {
+    const texts = [name_bold, showBirthday ? age : undefined, showGender ? gender : undefined]
+    return mergeTexts(texts)
+})()
 const school: string = (() => {
     const { school } = frontmatter.value
     return school ?? ''
