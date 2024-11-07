@@ -73,7 +73,7 @@ I'm also interested in many robotics and autonomous driving fields, including re
 - **Ruolin Wang**, Yuejiao Xu, Je Peng, and Jianmin Ji. "*A^2^cost: An asp-based avoidable collision scenario testbench for autonomous vehicles.*" Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning. 2023.
 - **Ruolin Wang**, Yuejiao Xu, and Jianmin Ji. "*Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios.*" Preprint. 2024.
 
-## Project Experience
+<!-- ## Project Experience
 
 ### <FlexSpan style="justify-content: space-between"><span>Cloud Platform-Based Lifelong Navigation of Indoor Service Robot</span><span>2021.11 — 2022.11</span></FlexSpan>
 
@@ -83,7 +83,7 @@ I'm also interested in many robotics and autonomous driving fields, including re
 ### <FlexSpan style="justify-content: space-between"><span>Perception and Planning Model-Driven Autonomous Driving System</span><span>2024.06 — Present</span></FlexSpan>
 
 - A collaboration project with Chery Automobile Co., Ltd.
-- Implement a reinforcement learning-based autonomous driving testing environment as a project participant.
+- Implement a reinforcement learning-based autonomous driving testing environment as a project participant. -->
 
 ## Awards and Scholarships
 
@@ -105,6 +105,6 @@ I'm also interested in many robotics and autonomous driving fields, including re
 - Fall 2023: Computer Programming A, Reinforcement Learning
 - Spring 2024: Fundamental of Artificial Intelligence
 
-## Fun Facts
+<!-- ## Fun Facts
 
-- I love music. I can play the piano, and I've taught myself to play the *Dizi* (笛子, a kind of Chinese flute) and *Xun* (埙, an ancient Chinese musical instrument). I can also play a little guitar.
+- I love music. I can play the piano, and I've taught myself to play the *Dizi* (笛子, a kind of Chinese flute) and *Xun* (埙, an ancient Chinese musical instrument). I can also play a little guitar. -->
