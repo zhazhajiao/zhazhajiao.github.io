@@ -71,7 +71,7 @@ I'm also interested in many robotics and autonomous driving fields, including re
 ## Publications
 
 - **Ruolin Wang**, Yuejiao Xu, Je Peng, and Jianmin Ji. "*A^2^cost: An asp-based avoidable collision scenario testbench for autonomous vehicles.*" Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning. 2023.
-- **Ruolin Wang**, Yuejiao Xu, and Jianmin Ji. "*Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios.*" Preprint. 2024.
+- **Ruolin Wang**, Yuejiao Xu, and Jianmin Ji. "*Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios.*" Proceedings of the 39th AAAI Conference on Artificial Intelligence. 2024.
 
 <!-- ## Project Experience
 
