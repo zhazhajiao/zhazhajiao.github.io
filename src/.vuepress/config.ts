@@ -11,7 +11,16 @@ const __dirname = getDirname(import.meta.url);
 export default defineUserConfig({
   base: "/",
 
-  lang: "en-US",
+  // lang: "en-US",
+  locales: {
+    "/": {
+      lang: "en-US",
+    },
+    "/zh/": {
+      lang: "zh-CN",
+    },
+  },
+  
   title: "Ruolin Wang",
   description: "Ruolin Wang's personal website",
 

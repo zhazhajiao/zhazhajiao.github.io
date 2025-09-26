@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
-import navbar from "./navbar.js";
+import {enNavbar, zhNavbar} from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
@@ -19,15 +19,25 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  // navbar
-  navbar,
+  locales: {
+    "/": {
+      // navbar
+      navbar: enNavbar,
 
-  // sidebar
-  sidebar,
+      // sidebar
+      sidebar: sidebar,
 
-  footer: "Powered by VuePress",
+      footer: "Powered by VuePress",
 
-  displayFooter: true,
+      displayFooter: true,
+    },
+    "/zh/": {
+      navbar: zhNavbar,
+      sidebar: sidebar,
+      footer: "Powered by VuePress",
+      displayFooter: true,
+    }
+  },
 
   blog: {
     description: "A Master's Student at USTC",

@@ -12,14 +12,13 @@ const gender = (() => {
         case 'M':
         case 'Male':
         case 'Man':
-        case '男':
-        default:
             return 'male'
         case 'F':
         case 'Female':
         case 'Woman':
-        case '女':
             return 'female'
+        default:
+            return gender
     }
 })()
 
