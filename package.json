@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.14",
-    "@vuepress/plugin-register-components": "^2.0.0-rc.37",
+    "@vuepress/plugin-register-components": "2.0.0-rc.37",
     "chart.js": "^4.4.4",
     "echarts": "^5.5.1",
     "flowchart.ts": "^3.0.0",
@@ -24,7 +24,7 @@
     "reveal.js": "^5.1.0",
     "vue": "^3.4.31",
     "vuepress": "2.0.0-rc.14",
-    "vuepress-plugin-search-pro": "^2.0.0-rc.52",
+    "vuepress-plugin-search-pro": "2.0.0-rc.52",
     "vuepress-theme-hope": "2.0.0-rc.52"
   }
 }
