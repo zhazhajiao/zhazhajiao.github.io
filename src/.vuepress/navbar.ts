@@ -27,26 +27,34 @@ const enNavbar = navbar([
 ]);
 
 const zhNavbar = navbar([
-  "/zh/",
-  "/zh/intro",
   {
-    text: "Blog",
+    text: "主页",
+    icon: "home",
+    link: "/zh/",
+  },
+  {
+    text: "简历",
+    icon: "circle-info",
+    link: "/zh/intro",
+  },
+  {
+    text: "博客",
     icon: "blog",
     link: "/article/",
   },
   {
-    text: "Projects",
+    text: "项目",
     icon: "bars-progress",
     prefix: "projects/",
     children: ["dadsim"],
   },
   {
-    text: "Publications",
+    text: "出版物",
     icon: "graduation-cap",
     link: "publications/",
   },
   {
-    text: "TA",
+    text: "教学",
     icon: "person-chalkboard",
     link: "http://home.ustc.edu.cn/~violinwang/ta/",
   },
