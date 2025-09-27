@@ -27,7 +27,7 @@ photo: /assets/images/portrait.jpg
 
 ## 个人简介
 
-我是中国科学技术大学计算机科学与技术专业的一名硕士研究生，本科就读于中国科学技术大学自动化系。硕士期间的主要研究方向是知识表示与推理方法及其在自动驾驶测试验证、机器人规划控制等方面的应用。
+我是中国科学技术大学的一名科研助理，拥有中国科学技术大学计算机科学与技术硕士学位与自动化学士学位。硕士期间的主要研究方向是知识表示与推理方法及其在自动驾驶测试验证、机器人规划控制等方面的应用。
 
 ## 个人亮点
 
@@ -43,7 +43,7 @@ photo: /assets/images/portrait.jpg
 
 ### <FlexSpan style="justify-content: space-between"><span>中国科学技术大学</span><span>2021.07 — 2024.12</span></FlexSpan>
 
-- 计算机科学与技术学院，工学硕士。导师: 吉建民副教授。研究方向：知识表示与推理，自动驾驶测试与验证，机器人规划与控制
+- 计算机科学与技术学院，工学硕士（学硕）。导师: 吉建民副教授。研究方向：知识表示与推理，自动驾驶测试与验证，机器人规划与控制
 - GPA: 3.62/4.3. 专业排名: 47/116.
 
 ### <FlexSpan style="justify-content: space-between"><span>中国科学技术大学</span><span>2017.09 — 2021.07</span></FlexSpan>
@@ -74,15 +74,10 @@ photo: /assets/images/portrait.jpg
 
 ## 项目经历
 
-### <FlexSpan style="justify-content: space-between"><span>Cloud Platform-Based Lifelong Navigation of Indoor Service Robot</span><span>2021.11 — 2022.11</span></FlexSpan>
+### <FlexSpan style="justify-content: space-between"><span>基于云平台的室内机器人协助式终身导航</span><span>2021.11 — 2022.11</span></FlexSpan>
 
-- A collaboration project with Huawei Technologies Co., Ltd.
-- Implement a cloud-based task planning algorithm based on a KR system as a project participant.
-
-### <FlexSpan style="justify-content: space-between"><span>Perception and Planning Model-Driven Autonomous Driving System</span><span>2024.06 — Present</span></FlexSpan>
-
-- A collaboration project with Chery Automobile Co., Ltd.
-- Implement a reinforcement learning-based autonomous driving testing environment as a project participant.
+- 华为云横向合作项目
+- 作为项目参与者，负责部分实现基于KR系统的云平台任务规划算法
 
 ## 所获奖项
 
@@ -91,7 +86,3 @@ photo: /assets/images/portrait.jpg
 - 中国科学技术大学优秀学生奖学金铜奖（1000元）（2017，2018，2019）
 - 蓝风奖学金（5000元）（2020）
 - 学生学业奖学金一等奖（2021, 2022, 2023）
-
-<!-- ## Fun Facts
-
-- I love music. I can play the piano, and I've taught myself to play the *Dizi* (笛子, a kind of Chinese flute) and *Xun* (埙, an ancient Chinese musical instrument). I can also play a little guitar. -->

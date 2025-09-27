@@ -27,7 +27,7 @@ photo: assets/images/portrait.jpg
 
 ## Introduction
 
-I am a Master's student at the University of Science and Technology of China, supervised by Associate Professor Jianmin Ji.
+I am an RA at the University of Science and Technology of China, supervised by Associate Professor Jianmin Ji.
 My research interests include scenario-based autonomous vehicle safety assessment and KR-based traffic scenario representation and generation.
 I'm also interested in many robotics and autonomous driving fields, including reinforcement learning, motion planning, trajectory optimization, and even hardware design.
 
@@ -42,7 +42,7 @@ I'm also interested in many robotics and autonomous driving fields, including re
 
 ## Education
 
-### <FlexSpan style="justify-content: space-between"><span>University of Science and Technology of China</span><span>2021.07 — 2024.11 EST</span></FlexSpan>
+### <FlexSpan style="justify-content: space-between"><span>University of Science and Technology of China</span><span>2021.07 — 2024.12</span></FlexSpan>
 
 - Research Master of Engineering, School of Computer Science and Technology. Supervisor: Jianmin Ji.
 - GPA: 3.62/4.3. Ranking: 47/116.
@@ -73,17 +73,12 @@ I'm also interested in many robotics and autonomous driving fields, including re
 - **Ruolin Wang**, Yuejiao Xu, Je Peng, and Jianmin Ji. "*A^2^cost: An asp-based avoidable collision scenario testbench for autonomous vehicles.*" Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning. 2023.
 - **Ruolin Wang**, Yuejiao Xu, and Jianmin Ji. "*Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios.*" Proceedings of the 39th AAAI Conference on Artificial Intelligence. 2024.
 
-<!-- ## Project Experience
+## Project Experience
 
 ### <FlexSpan style="justify-content: space-between"><span>Cloud Platform-Based Lifelong Navigation of Indoor Service Robot</span><span>2021.11 — 2022.11</span></FlexSpan>
 
 - A collaboration project with Huawei Technologies Co., Ltd.
 - Implement a cloud-based task planning algorithm based on a KR system as a project participant.
-
-### <FlexSpan style="justify-content: space-between"><span>Perception and Planning Model-Driven Autonomous Driving System</span><span>2024.06 — Present</span></FlexSpan>
-
-- A collaboration project with Chery Automobile Co., Ltd.
-- Implement a reinforcement learning-based autonomous driving testing environment as a project participant. -->
 
 ## Awards and Scholarships
 
@@ -105,6 +100,8 @@ I'm also interested in many robotics and autonomous driving fields, including re
 - Fall 2023: Computer Programming A, Reinforcement Learning
 - Spring 2024: Fundamental of Artificial Intelligence
 
-<!-- ## Fun Facts
+## Fun Facts
 
-- I love music. I can play the piano, and I've taught myself to play the *Dizi* (笛子, a kind of Chinese flute) and *Xun* (埙, an ancient Chinese musical instrument). I can also play a little guitar. -->
+- I am a beginner in RC model airplanes.
+- I'm an amateur astronomer. I have a SkyWatcher 150/750 and a SkyRover 80ED APO telescope.
+- I love music. I can play the piano, and I've taught myself to play the *Dizi* (笛子, a kind of Chinese flute) and *Xun* (埙, an ancient Chinese musical instrument). I can also play a little guitar.
