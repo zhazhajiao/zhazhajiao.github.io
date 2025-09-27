@@ -81,6 +81,18 @@ const school: string = (() => {
     display: flex;
 }
 
+@media print {
+    .info {
+        align-items: center !important;
+        flex-direction: row !important;
+    }
+
+    .photo {
+        margin-left: auto !important;
+        margin-right: 0 !important;
+    }
+}
+
 @media (min-width: hope-config.$tablet) {
     .info {
         align-items: center;
@@ -90,7 +102,7 @@ const school: string = (() => {
 
 @media (max-width: hope-config.$tablet) {
     .info {
-        align-items: left;
+        align-items: flex-start;
         flex-direction: column-reverse;
     }
 

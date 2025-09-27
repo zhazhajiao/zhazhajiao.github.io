@@ -21,6 +21,12 @@
     }
 }
 
+@media print {
+    .vp-footer-wrapper {
+        display: none;
+    }
+}
+
 html[data-theme=light] {
     --home-bg: rgba(0, 0, 0, 0.2)
 }
