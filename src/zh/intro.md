@@ -45,7 +45,7 @@ photo: /assets/images/portrait.jpg
 
 ## 教育经历
 
-### <FlexSpan style="justify-content: space-between"><span>中国科学技术大学</span><span>2021.07 — 2025.09</span></FlexSpan>
+### <FlexSpan style="justify-content: space-between"><span>中国科学技术大学</span><span>2022.07 — 2025.09</span></FlexSpan>
 
 - 数据科学（信息与通信工程），工学硕士（学硕）。导师: 吉建民副教授。研究方向：知识表示与推理，自动驾驶轨迹规划安全，机器人规划与控制
 - GPA: 3.75/4.3. 专业排名: 37/116.
