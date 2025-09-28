@@ -21,8 +21,8 @@ export default defineUserConfig({
     },
   },
   
-  title: "Ruolin Wang",
-  description: "Ruolin Wang's personal website",
+  title: "Yuejiao Xu",
+  description: "Yuejiao Xu's personal website",
 
   theme,
 

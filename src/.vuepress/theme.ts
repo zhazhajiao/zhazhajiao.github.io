@@ -78,7 +78,7 @@ export default hopeTheme({
 
     comment: {
       provider: "Giscus",
-      repo: "Violin9906/Violin9906.github.io",
+      repo: "zhazhajiao/zhazhajiao.github.io",
       repoId: "R_kgDOMnP1JA",
       category: "Comments",
       categoryId: "DIC_kwDOMnP1JM4Ch5GB",
