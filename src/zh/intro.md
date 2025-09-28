@@ -72,26 +72,20 @@ photo: /assets/images/portrait.jpg
 
 ### 
 
-## 科研论文
-
-- Ruolin Wang, **Yuejiao Xu**, Je Peng, and Jianmin Ji. "*A^2^cost: An asp-based avoidable collision scenario testbench for autonomous vehicles.*" Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning. 2023. (**KR 2023, CCF-B**)
-- Ruolin Wang, **Yuejiao Xu**, and Jianmin Ji. "*Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios.*" Proceedings of the 39th AAAI Conference on Artificial Intelligence. 2025. (**AAAI 2025, CCF-A**)
-- **Yuejiao Xu**, Ruolin Wang, Chengpeng Xu, and Jianmin Ji. "*Safe and Personalizable Logical Guidance for Trajectory Planning of Autonomous Driving*"
-
-### 助教经历
-- 2023SP： 人工智能基础
-- 2023FA： 强化学习
-- 2023FA： 程序设计
-- 2024SP： 人工智能基础
-- 2024FA： 强化学习
-- 2025SP： 人工智能基础
-
 ## 项目经历
 
 ### <FlexSpan style="justify-content: space-between"><span>基于云平台的室内机器人协助式终身导航</span><span>2021.11 — 2022.11</span></FlexSpan>
 
 - 华为云横向合作项目
 - 作为项目参与者，负责部分实现基于KR系统的云平台任务规划算法
+
+
+## 科研论文
+
+- Ruolin Wang, **Yuejiao Xu**, Je Peng, and Jianmin Ji. "*A^2^cost: An asp-based avoidable collision scenario testbench for autonomous vehicles.*" Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning. 2023. (**KR 2023, CCF-B**)
+- Ruolin Wang, **Yuejiao Xu**, and Jianmin Ji. "*Traffic Scenario Logic: A Spatial-Temporal Logic for Modeling and Reasoning of Urban Traffic Scenarios.*" Proceedings of the 39th AAAI Conference on Artificial Intelligence. 2025. (**AAAI 2025, CCF-A**)
+- **Yuejiao Xu**, Ruolin Wang, Chengpeng Xu, and Jianmin Ji. "*Safe and Personalizable Logical Guidance for Trajectory Planning of Autonomous Driving*"
+
 
 ## 所获奖项
 
@@ -100,3 +94,11 @@ photo: /assets/images/portrait.jpg
 - 中国科学技术大学优秀学生奖学金铜奖（1000元）（2017，2018，2019）
 - 蓝风奖学金（5000元）（2020） -->
 - 学生学业奖学金一等奖（2022, 2023, 2024）
+
+## 助教经历
+- 2023SP： 人工智能基础
+- 2023FA： 强化学习
+- 2023FA： 程序设计
+- 2024SP： 人工智能基础
+- 2024FA： 强化学习
+- 2025SP： 人工智能基础

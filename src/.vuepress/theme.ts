@@ -4,18 +4,18 @@ import {enNavbar, zhNavbar} from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://ruolin.wang",
+  hostname: "https://zhazhajiao.github.io",
 
   author: {
-    name: "Ruolin Wang",
-    url: "https://ruolin.wang",
+    name: "Yuejiao Xu",
+    url: "https://zhazhajiao.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "logo.png",
 
-  repo: "Violin9906",
+  repo: "zhazhajiao",
 
   docsDir: "src",
 
@@ -44,17 +44,17 @@ export default hopeTheme({
     intro: "/intro.html",
     avatar: "/assets/images/portrait.jpg",
     medias: {
-      Email: "mailto:rl_wang@mail.ustc.edu.cn",
-      GitHub: "https://github.com/Violin9906",
-      Linkedin: "https://www.linkedin.com/in/ruolin-wang-631878206/",
+      Email: "mailto:yuejiao@mail.ustc.edu.cn",
+      GitHub: "https://github.com/zhazhajiao",
+      // Linkedin: "https://www.linkedin.com/in/ruolin-wang-631878206/",
       ORCiD: {
         icon: "https://orcid.org/assets/vectors/orcid.logo.icon.svg",
-        link: "https://orcid.org/0009-0004-9053-8951",
+        link: "https://orcid.org/0009-0005-2654-1184",
       },
-      GoogleScholar: {
-        icon: "https://scholar.google.com/favicon.ico",
-        link: "https://scholar.google.com/citations?user=VBOzYR0AAAAJ&hl=en",
-      },
+      // GoogleScholar: {
+      //   icon: "https://scholar.google.com/favicon.ico",
+      //   link: "https://scholar.google.com/citations?user=VBOzYR0AAAAJ&hl=en",
+      // },
     },
   },
 
@@ -69,7 +69,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/posts/Story": ["19990628"],
+      "/posts/Story": ["19991105"],
     },
   },
 
